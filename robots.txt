@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://electrotecniaml.com.ar/sitemap-index.xml
+Host: https://electrotecniaml.com.ar
